@@ -9,8 +9,7 @@ Additionally, I am proficient in Blender and use it for creating 3D models and a
 [![My Skills](https://skillicons.dev/icons?i=cs,py,unity,blender,git,rider,pycharm,vscode,ps,kali)](https://skillicons.dev)
 
 # My Contacts  
-[![My Skills](https://skillicons.dev/icons?i=cs,git,unity,blender)](https://skillicons.dev)
 
 <p align="left">
-    <a href =""><img width="48" height="48" src="telegram.svg"/></a>
+    <a href ="https://t.me/ZeChhhhh" target="_blamk"><img width="48" height="48" src="telegram.svg"/></a>
 </p>
