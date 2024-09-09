@@ -12,5 +12,5 @@ Additionally, I am proficient in Blender and use it for creating 3D models and a
 [![My Skills](https://skillicons.dev/icons?i=cs,git,unity,blender)](https://skillicons.dev)
 
 <p align="left">
-    <a href =""><imm width = "10" height = "10" src="telegram.svg"></a>
+    <a href =""><imm width="20" height="20" src="telegram.svg"></a>
 </p>
