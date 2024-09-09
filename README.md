@@ -10,3 +10,7 @@ Additionally, I am proficient in Blender and use it for creating 3D models and a
 
 # My Contacts  
 [![My Skills](https://skillicons.dev/icons?i=cs,git,unity,blender)](https://skillicons.dev)
+
+<p align="left">
+    <a href =""><img src="telegram.svg"></a>
+</p>
