@@ -6,7 +6,7 @@ Additionally, I am proficient in Blender and use it for creating 3D models and a
 
 # My skills and experience
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,unity,blender,git,rider,pycharm,vscode,ps,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,unity,blender,git,rider,pycharm,vscode,visualstudio,ps,kali)](https://skillicons.dev)
 
 # My Contacts  
 
