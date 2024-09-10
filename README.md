@@ -10,7 +10,7 @@ Additionally, I am proficient in Blender and use it for creating 3D models and a
 
 
 ### I speak:
-- *Russian*
+- *Russian* 
 - *Georgian* 
 - *English*
 
