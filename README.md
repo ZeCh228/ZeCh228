@@ -12,5 +12,5 @@ Additionally, I am proficient in Blender and use it for creating 3D models and a
 
 <p align="left">
     <a href="https://t.me/kviki_skviki"><img width="48" height="48" src="./telegram.svg"/></a> 
-    <a href="mailto:kviki.zech@gmail.com?Subject=Hello%20again"><img width="48" height="48" src="./gmail.svg"/></a> 
+    <a href="mailto: kviki.zech@gmail.com"><img width="48" height="48" src="./gmail.svg"/></a> 
 </p>
