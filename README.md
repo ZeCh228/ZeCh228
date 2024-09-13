@@ -7,6 +7,10 @@ Additionally, I am proficient in Blender and use it for creating 3D models and a
 - *Implementing many game mechanics*
 - *Creating beautiful environments*
 - *Working with a profiler and optimization*
+- *Singleton, PoolObject, Observer, Flyweight, FSM*
+- *SOLID*
+- *OOP*
+  
 
 
 ### I speak:
