@@ -10,6 +10,9 @@ Additionally, I am proficient in Blender and use it for creating 3D models and a
 - *Singleton, PoolObject, Observer, Flyweight, FSM*
 - *SOLID*
 - *OOP*
+- *Procedural Generation (Perlin Noise, Simplex Noise, random level generation)*
+- *Integration with external APIs (Telegram, Steam SDK)*
+- *Multiplayer (Netcode for GameObjects / Mirror / Photon)*
   
 
 
