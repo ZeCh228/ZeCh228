@@ -1,5 +1,5 @@
-# Hi)👋
-My name is **David**, I am 22 years old, and I aim to make my mark in the world of game development. I have experience working with Unity and programming skills in C#. I am familiar with Git version control system and have had experience with Steam SDK.
+# Hi, I’m David👋
+My name is **David**, I aim to make my mark in the world of game development. I have experience working with Unity and programming skills in C#. I am familiar with Git version control system and have had experience with Steam SDK.
 
 Additionally, I am proficient in Blender and use it for creating 3D models and animations in my projects. Currently, I am actively developing a game for the Steam platform.
 
@@ -13,6 +13,7 @@ Additionally, I am proficient in Blender and use it for creating 3D models and a
 - *Procedural Generation (Perlin Noise, Simplex Noise, random level generation)*
 - *Integration with external APIs (Telegram, Steam SDK)*
 - *Multiplayer (Netcode for GameObjects / Mirror / Photon)*
+- *Build & Deployment (Android/iOS, PC, Steam, itch.io)*
   
 
 
