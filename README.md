@@ -13,7 +13,7 @@ Additionally, I am proficient in Blender and use it for creating 3D models and a
 - *Procedural Generation (Perlin Noise, Simplex Noise, random level generation)*
 - *Integration with external APIs (Telegram, Steam SDK)*
 - *Multiplayer (Netcode for GameObjects / Mirror / Photon)*
-- *Build & Deployment (Android/iOS, PC, Steam, itch.io)*
+- *Build & Deployment (Android/iOS, PC, Ubuntu, Steam, itch.io)*
   
 
 
